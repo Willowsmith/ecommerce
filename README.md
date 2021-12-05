@@ -8,5 +8,9 @@ This is an internet retail e-commerce site that I finished by using Express.js A
 
 Follow the link and use routes like "api/tags" and "api/products" to view the different routes. You can create, update, and delete data in this app as it uses CRUD.
 
+![Example video](https://watch.screencastify.com/v/GH81gKcwoj2O9APPXLcv)
+
 ## Creator
 Melyssa Dennis
+
+

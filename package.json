@@ -1,0 +1,29 @@
+{
+  "name": "seeds",
+  "version": "1.0.0",
+  "description": "This is an internet retail e-commerce site that I finished by using Express.js API which I then utilized Sequlize to interact with MySQL in order to make use of databases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.11.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Willowsmith/ecommerce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Willowsmith/ecommerce/issues"
+  },
+  "homepage": "https://github.com/Willowsmith/ecommerce#readme"
+}
